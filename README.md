@@ -4,7 +4,7 @@ The program can copy files from your system into the simulated file system and v
 
 Runs in the command line
 
-To compile: g++ -o main.exe project3.cpp
+To compile (Using the GNU c++ compiler): g++ -o main.exe project3.cpp
 
 To run: ./main.exe <>
 
