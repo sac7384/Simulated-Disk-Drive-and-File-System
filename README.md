@@ -3,6 +3,9 @@ My final project for a Operating Systems Concepts class I took in the fall of 20
 The program can copy files from your system into the simulated file system and vice versa, and display files and representations of the memory on the disk
 
 Runs in the command line
+
 To compile: g++ -o main.exe project3.cpp
+
 To run: ./main.exe <>
+
 Replace the <> in the run command with whichever of the three allocation methods you want the system to use: contiguous, chained, indexed
